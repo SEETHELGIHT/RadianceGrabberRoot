@@ -1,6 +1,7 @@
 [submodule "RadianceGrabber"]
 	path = RadianceGrabber
 	url = https://github.com/SEETHELIGHTS/RadianceGrabber.git
+	branch = release
 [submodule "CapstonePlanning"]
 	path = CapstonePlanning
 	url = https://github.com/SEETHELIGHTS/CapstonePlanning.git
